@@ -1,2 +1,2 @@
 # Energy_Meter
-o calculate hourly Energy consumptions
+Calculate hourly Energy consumptions
