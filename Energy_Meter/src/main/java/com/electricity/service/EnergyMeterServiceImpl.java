@@ -1,14 +1,15 @@
-package com.ecoaxis.service;
+package com.electricity.service;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import com.ecoaxis.exception.NotFoundException;
-import com.ecoaxis.model.EnergyMeter;
-import com.ecoaxis.model.HourlyConsumptionObject;
-import com.ecoaxis.repository.EnergyMeterRepository;
+
+import com.electricity.exception.NotFoundException;
+import com.electricity.model.EnergyMeter;
+import com.electricity.model.HourlyConsumptionObject;
+import com.electricity.repository.EnergyMeterRepository;
 
 
 /**

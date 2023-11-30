@@ -1,4 +1,4 @@
-package com.ecoaxis.exception;
+package com.electricity.exception;
 import java.time.LocalDateTime;
 
 import lombok.AllArgsConstructor;

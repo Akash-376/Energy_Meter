@@ -1,11 +1,12 @@
-package com.ecoaxis.repository;
+package com.electricity.repository;
 
 
 import java.util.List;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
-import com.ecoaxis.model.EnergyMeter;
+
+import com.electricity.model.EnergyMeter;
 
 /**
  * The `EnergyMeterRepository` interface is responsible for defining data access methods for the `EnergyMeter` entity.

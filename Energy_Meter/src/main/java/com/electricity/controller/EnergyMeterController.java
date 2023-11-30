@@ -1,4 +1,4 @@
-package com.ecoaxis.controller;
+package com.electricity.controller;
 
 import java.util.List;
 
@@ -9,9 +9,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
-import com.ecoaxis.model.EnergyMeter;
-import com.ecoaxis.model.HourlyConsumptionObject;
-import com.ecoaxis.service.EnergyMeterService;
+
+import com.electricity.model.EnergyMeter;
+import com.electricity.model.HourlyConsumptionObject;
+import com.electricity.service.EnergyMeterService;
 
 /**
  * The `EnergyMeterController` class defines REST endpoints for managing energy consumption data.

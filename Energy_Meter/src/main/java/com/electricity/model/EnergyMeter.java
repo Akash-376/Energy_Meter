@@ -1,4 +1,4 @@
-package com.ecoaxis.model;
+package com.electricity.model;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

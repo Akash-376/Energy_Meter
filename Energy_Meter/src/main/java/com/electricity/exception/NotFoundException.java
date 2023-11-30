@@ -1,4 +1,4 @@
-package com.ecoaxis.exception;
+package com.electricity.exception;
 
 public class NotFoundException extends RuntimeException{
 	
